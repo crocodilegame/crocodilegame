@@ -1,0 +1,40 @@
+{
+    "name":"Crocodile #8333",
+    "description":"A Trust game between Crocodile and Crocodile Bird. Will you cooperate or betray for the $PIRANHA hunting? The hunting rewards depend not only on the period you stake the tokens but also on mutual decisions. The novel Game-theoretic concept, the Prisoner's Dilemma problem, is reflected.",
+    "image":"https://ipfs.io/ipfs/QmSupssvpGWZd89CT7PsD8ifMLiz1KU1caEjcr6kRCQDtP/8333.png",
+    "external_url":"/URL/",
+    "attributes":[
+        {
+            "trait_type":"Skin",
+            "value":"c wolf"
+        },
+        {
+            "trait_type":"Breast",
+            "value":"c brown"
+        },
+        {
+            "trait_type":"Base",
+            "value":"c base"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"c swim glasses"
+        },
+        {
+            "trait_type":"Tail",
+            "value":"c gold rings"
+        },
+        {
+            "trait_type":"Shoes",
+            "value":"c diamond"
+        },
+        {
+            "trait_type":"Fish",
+            "value":"c mutant"
+        },
+        {
+            "trait_type":"Hat",
+            "value":"c wreath"
+        }
+    ]
+}
